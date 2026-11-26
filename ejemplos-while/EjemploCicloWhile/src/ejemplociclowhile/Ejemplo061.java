@@ -39,5 +39,5 @@ En este ejercicio hacemos que el ciclo se cumpla con una variable booleana
 de al valor contrario. Pasando de true a false.
 A diferencia de los anteriores ejercicios los cuales el ciclo se cumplia
 con condiciones de contadores, este es practicamente infinito hasta que el 
-usuario decia lo contrario 
+usuario decida lo contrario 
 */
