@@ -47,6 +47,9 @@ public class Ejemplo065 {
     }
 }
 /*
-
-
+El problema que tenia el programa consistia en que el ciclo continuaba 
+infinitamente debido a que la variable salir tomaba valor "", que dejaba la 
+entrada Int anterior. 
+Entonces lo que se soluciono fue agregar una entrada para que ese valor vacio
+no afecte a lo demas
 */
